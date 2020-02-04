@@ -10,11 +10,11 @@
 
 ### Funcionalidades Básicas
 
-* [checkbox:checked] Conexão com banco de dados
-* [checkbox:checked] Migrations e seeders com sequelize
-* [checkbox:checked] Crud de Usuário
-* [checkbox:checked] Criptografia com bctyptjs
-* [checkbox:checked] Autenticação JWT
-* [checkbox:checked] Token e Validação
-* [checkbox:unchecked] Enviar email
-* [checkbox:unchecked] Fazer upload de arquivos
+* [X] Conexão com banco de dados
+* [X] Migrations e seeders com sequelize
+* [X] Crud de Usuário
+* [X] Criptografia com bctyptjs
+* [X] Autenticação JWT
+* [X] Token e Validação
+* [ ] Enviar email
+* [ ] Fazer upload de arquivos
